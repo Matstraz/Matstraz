@@ -1,5 +1,6 @@
-### Hi there 👋
-- 🌱 I’m currently
+### Hi there :electron:
+
+I’m currently..
 
 :small_blue_diamond: Studying to become certified as a full stack developer.
 
