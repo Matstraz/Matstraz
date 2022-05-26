@@ -10,7 +10,7 @@
 
 :small_blue_diamond: Developing web applications through Agile methodologies
 
-###Contacts
+### Contacts
 
 :small_orange_diamond: E-mail: mat.strazzzera@gmail.com
 
