@@ -1,6 +1,6 @@
 ### :electron:  Hi there 
 
-I’m currently..
+# I’m currently..
 
 :small_blue_diamond: Studying to become certified as a full stack developer
 
