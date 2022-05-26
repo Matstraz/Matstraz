@@ -12,6 +12,6 @@
 
 ### Contacts
 
-:small_orange_diamond: E-mail: mat.strazzzera@gmail.com
-
 :small_orange_diamond: [Linkedin](https://www.linkedin.com/in/matteo-strazzera-ba26781b8/)
+
+:small_orange_diamond: E-mail mat.strazzzera@gmail.com
