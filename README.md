@@ -33,7 +33,7 @@
   
 <hr>
 
-### Contacts
+### Contacts:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/matteo-strazzera-ba26781b8/">
