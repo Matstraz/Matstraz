@@ -2,11 +2,11 @@
   <img src="https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif" width="250"/>
 </div>
 
-### I’m currently..
+### About me: 
 
-:small_blue_diamond: Studying to become certified as a full stack developer
+##I’m a Junior full stack developer and I'm currently..
 
-:small_blue_diamond: using HTML, CSS, JS & React.JS
+:small_blue_diamond: Using HTML, CSS, JS & React.JS
 
 :small_blue_diamond: Further studying Javascript/React and learning TypeScript & Node.JS
 
