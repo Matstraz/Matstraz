@@ -2,6 +2,8 @@
   <img src="https://media.giphy.com/media/OBnIvqqpKFbZam9Wmj/giphy.gif" width="250"/>
 </div>
 
+<hr>
+
 ### About me: 
 
 #### I’m a Junior full stack developer and I'm currently..
