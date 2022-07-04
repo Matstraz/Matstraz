@@ -13,6 +13,6 @@
 
 ### Contacts
 
-:small_orange_diamond: [LinkedIn](https://www.linkedin.com/in/matteo-strazzera-ba26781b8/)
+:https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge: [LinkedIn](https://www.linkedin.com/in/matteo-strazzera-ba26781b8/)
 
 :small_orange_diamond: [E-mail](mailto:mat.strazzera@gmail.com)
