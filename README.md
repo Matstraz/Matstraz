@@ -4,7 +4,7 @@
 
 ### About me: 
 
-## I’m a Junior full stack developer and I'm currently..
+#### I’m a Junior full stack developer and I'm currently..
 
 :small_blue_diamond: Using HTML, CSS, JS & React.JS
 
