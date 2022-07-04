@@ -1,5 +1,4 @@
 ## :electron:  Hi there 
-[![MasterHead](your image link)]https://github.com/Matstraz
 
 ### I’m currently..
 
