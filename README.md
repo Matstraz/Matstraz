@@ -12,6 +12,8 @@
 
 :small_blue_diamond: Developing web applications through Agile methodologies
 
+<hr>
+
 ### Contacts
 
 <div id="badges">
