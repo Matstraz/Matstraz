@@ -8,9 +8,9 @@
 
 #### I’m a Junior full stack developer and I'm currently:
 
-:small_blue_diamond: Using HTML, CSS, JS & React.JS
+:small_blue_diamond: Using HTML, CSS, JS, React.JS & Node.JS
 
-:small_blue_diamond: Further studying Javascript/React and learning TypeScript & Node.JS
+:small_blue_diamond: Further studying Javascript/React and learning TypeScript/Node.JS
 
 :small_blue_diamond: Developing web applications through Agile methodologies
 
