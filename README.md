@@ -32,6 +32,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" title="trello" alt="trello" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="35" height="35"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/mysql-original.svg" title="MySql" alt="MySql" width="35" height="35"/>&nbsp;
   
 <hr>
 
