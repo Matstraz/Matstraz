@@ -46,6 +46,10 @@
   <a href="mailto:mat.strazzera@gmail.com">
     <img src="https://img.shields.io/badge/GMAil-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  
+   <a href="https://portfoliostrazzera.netlify.app/">
+    <img src="https://img.shields.io/badge/-portfolio-green" alt="Website"/>
+  </a>
 </div>
 
 
