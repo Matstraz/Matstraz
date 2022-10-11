@@ -48,7 +48,7 @@
   </a>
   
    <a href="https://portfoliostrazzera.netlify.app/">
-    <img src="https://img.shields.io/badge/-WEBSITE-green" width="85" height="29"/>
+    <img src="https://img.shields.io/badge/-WEBSITE-green?style=for-the-badge" width="85" height="29"/>
   </a>
 </div>
 
